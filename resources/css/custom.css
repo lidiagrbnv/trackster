@@ -1,0 +1,42 @@
+body {
+	font-family: "Work Sans", sans-serif;
+	line-height: 2.5;
+	color: #4a4a4a;
+	background-color: #fff;
+}
+
+.header {
+	background-color: #22013f;
+	padding: 2.75rem 0;
+}
+
+.header h1 {
+	font-family: "Righteous", cursive;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #ff00ab;
+}
+
+.header input {
+	border-radius: 19px;
+	margin-right: .625rem;
+}
+
+.header .fa-search {
+	background-color: #ff00ab;
+	padding: .5rem;
+	border-radius: 19px;
+	color: #22013f;
+	text-align: center;
+}
+
+.header .fa-search:hover {
+	background-color: #ff66cc;
+	cursor: pointer;
+}
+
+.attributes {
+	background-color: #6800ff;
+	color: #fff;
+	font-weight: 500;
+}
