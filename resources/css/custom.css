@@ -40,3 +40,21 @@ body {
 	color: #fff;
 	font-weight: 500;
 }
+
+.track {
+	display: flex;
+	padding: .6rem;
+	border-bottom: 1px solid #cccccc;
+	line-height: 1;
+}
+
+.track div {
+	display: flex;
+	align-items: center;
+}
+
+.play-button a {
+	display: flex;
+	align-items: center;
+	color: #ff00ab;
+}
